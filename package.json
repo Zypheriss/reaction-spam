@@ -1,0 +1,19 @@
+{
+  "name": "discord-reaction-bot",
+  "version": "1.0.0",
+  "description": "Discord token ile mesajlara reaction ekleme programı",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "zypheris",
+    "zyp",
+    "bot"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js-selfbot-v13": "^2.15.1"
+  }
+}
