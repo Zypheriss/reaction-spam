@@ -1,5 +1,5 @@
 {
-  "name": "zypheris-reacion",
+  "name": "zypheris-reaction",
   "version": "1.0.0",
   "description": "Discord token ile mesajlara reaction ekleme programı",
   "main": "index.js",
